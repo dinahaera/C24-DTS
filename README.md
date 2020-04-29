@@ -1,2 +1,2 @@
 # C24-DTS
-Tugas Digitalent
+Tugas Digitalent, Belajar Mandiri
