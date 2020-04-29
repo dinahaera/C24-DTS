@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Tambahkan CSS untuk clear */
+
+footer {
+  height: 580px;
+  width: 100%;
+  padding: 40px 60px;
+  margin: 0 auto;
+  background-color: black;
+  color:white;
+  position :fixed;
+  float:left;
+  top: 0;
+  z-index: 10;
+  font-family: "Century Gothic";
+}
+.foote{
+  float:left;
+  width:33%;
+}
+.foot3 p{
+  margin-top:15px;
+
+}
+.foot1a p{
+  display: inline-block;
+  font-size:15px;
+  margin-right:20px;
+}
+.foot3 {
+ padding-left:50px;
+ font-size:15px;
+}
+.foot3a{
+  padding-bottom:30px;
+}
+.foot2{
+  font-size:15px;
+  float:left;
+  text-align:center;
+}
+h2,h3,h4,h5{
+  font-weight:normal;
+}
+.foot2 img{
+  width:80%;
+  margin-bottom:40px;
+}
+.moto{
+  padding:10px;
+}
+.foot3 li{
+  margin-top:25px;
+  color:white;
+  cursor:pointer;
+  list-style: none;
+}
+
+.btn {
+  padding: 12px 25px;
+  color: white;
+  display: inline-block;
+  opacity: 0.7;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #00bfff;
+  cursor: pointer;
+}
+.btn:hover {
+  opacity: 2;
+}
+.btn:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+.foot-pesan p{
+  margin-bottom:10px;
+  margin-top:10px;
+}
+.copyright{
+  margin-top:40px;
+  font-size:13px;
+}
+.pesan{
+  width:350px;
+  height:100px;
+}
+.link:link{
+  color:cyan;
+}
+.link:hover{
+  color:yellow;
+}
+.links{
+  border-top:1px solid #E0FFFF;
+}
